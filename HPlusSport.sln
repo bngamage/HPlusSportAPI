@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSport.API", "HPlusSport.API\HPlusSport.API.csproj", "{B54A912E-8BB0-4374-A76A-25F86F13517E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54A912E-8BB0-4374-A76A-25F86F13517E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54A912E-8BB0-4374-A76A-25F86F13517E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54A912E-8BB0-4374-A76A-25F86F13517E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54A912E-8BB0-4374-A76A-25F86F13517E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108572D0-7A98-4784-A1C7-A0B5EF2F4255}
+	EndGlobalSection
+EndGlobal
